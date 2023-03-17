@@ -1,0 +1,67 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white; }
+.c {
+    background-color: rgb(255, 255, 231);
+    text-align: center;
+}
+.c h1 {
+    color: rgb(35, 71, 1);
+    font-size: 40px;
+    font-family: serif; 
+}
+.c h3 {
+    color: rgb(35, 71, 1);
+    font-size: 20px;
+    font-family: serif;
+    background-color: rgb(255, 254, 240);   
+    text-align: center;
+}
+.c p {
+    color: rgb(82, 133, 36);
+    font-size: 18px;
+    font-family: serif; 
+    background-color: rgb(255, 254, 240);  
+    text-align: center;
+}
+.c {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    background-color:rgb(189, 253, 189);
+}
+.c ol {
+    color: rgb(82, 133, 36);
+    font-size: 18px;
+    font-family: serif; 
+    background-color: rgb(255, 254, 240);  
+    text-align: right; 
+}
+.e li {
+    overflow: auto;
+    display: inline-block;
+    border-radius:  4px;
+    background-color: bisque;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 4px;
+    height: auto;
+    width: 150px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.e li a:hover{
+    background-color:rgb(196, 178, 119);
+}
+.c {
+    overflow: scroll;
+}
+.c img {
+    border-style: double;
+    border-color: bisque;
+    margin: 20px;
+}
